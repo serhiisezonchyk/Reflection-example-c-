@@ -1,0 +1,13 @@
+D:\VSproj\Reflection_l2\Reflection_l2\bin\Debug\Reflection_l2.exe.config
+D:\VSproj\Reflection_l2\Reflection_l2\bin\Debug\Reflection_l2.exe
+D:\VSproj\Reflection_l2\Reflection_l2\bin\Debug\Reflection_l2.pdb
+D:\VSproj\Reflection_l2\Reflection_l2\obj\Debug\Reflection_l2.csproj.AssemblyReference.cache
+D:\VSproj\Reflection_l2\Reflection_l2\obj\Debug\Reflection_l2.csproj.SuggestedBindingRedirects.cache
+D:\VSproj\Reflection_l2\Reflection_l2\obj\Debug\Reflection_l2.Form1.resources
+D:\VSproj\Reflection_l2\Reflection_l2\obj\Debug\Reflection_l2.Properties.Resources.resources
+D:\VSproj\Reflection_l2\Reflection_l2\obj\Debug\Reflection_l2.csproj.GenerateResource.cache
+D:\VSproj\Reflection_l2\Reflection_l2\obj\Debug\Reflection_l2.csproj.CoreCompileInputs.cache
+D:\VSproj\Reflection_l2\Reflection_l2\obj\Debug\Reflection_l2.exe
+D:\VSproj\Reflection_l2\Reflection_l2\obj\Debug\Reflection_l2.pdb
+D:\VSproj\Reflection_l2\Reflection_l2\obj\Debug\Reflection_l2.DopName.resources
+D:\VSproj\Reflection_l2\Reflection_l2\obj\Debug\Reflection_l2.AboutBox1.resources
